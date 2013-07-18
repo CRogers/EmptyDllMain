@@ -1,0 +1,9 @@
+*.suo
+Debug/
+
+x64/
+*.sdf
+*.opensdf
+_ReSharper*
+*.user
+*.filters
